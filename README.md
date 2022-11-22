@@ -1,8 +1,6 @@
 ## Try it
 
-(https://my-json-server.typicode.com/Willi-Dev-E-Loper
-/
-prueba)
+(https://my-json-server.typicode.com/Willi-Dev-E-Loper/prueba)
 
 ## Use your own data
 
